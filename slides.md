@@ -285,3 +285,22 @@ A scatterplot illustrating the relationship between height and weight, with poin
 </iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Part Length Analysis
+A scatterplot showing the distribution of part lengths over the recorded observations.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/scatterplot_partlength.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
