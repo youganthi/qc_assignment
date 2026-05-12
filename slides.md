@@ -209,3 +209,79 @@ A scatterplot illustrating the relationship between height and weight, with poin
 </iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Distribution of Age
+We can visualize the distribution of student ages using a histogram.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/histogram_age.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores by Gender
+Comparing average Math scores between male and female students.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/barchart_math_sex.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Weight Distribution
+An examination of weight distribution, stratified by student sex, using a boxplot.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/boxplot_weight_sex.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Height and Weight Correlation
+A scatterplot illustrating the relationship between height and weight, with points colored by sex. (Reprise)
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src="media/plots/scatterplot_height_weight_sex_reprise.html"
+  width="100%"
+  height="500px"
+  style="border:none;"
+  scrolling="no">
+</iframe>
+:::
+::::
