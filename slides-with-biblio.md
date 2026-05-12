@@ -209,3 +209,7 @@ A scatterplot illustrating the relationship between height and weight, with poin
 </iframe>
 :::
 ::::
+
+---
+# Bibliography
+<div id="refs"></div>
